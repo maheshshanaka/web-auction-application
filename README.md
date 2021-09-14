@@ -4,6 +4,7 @@
 - composer install
 - npm install
 - Create a empty mysql database (MySql 8.0 prefer)
+- PHP version >= 7.4.0
 - Configure the .env file
 
 ## Console Commands
